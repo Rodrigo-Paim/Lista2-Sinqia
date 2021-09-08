@@ -1,1 +1,1 @@
-# DevVenturus-LuckDice
+# Sinqia - Bootcamp by Let's Code
