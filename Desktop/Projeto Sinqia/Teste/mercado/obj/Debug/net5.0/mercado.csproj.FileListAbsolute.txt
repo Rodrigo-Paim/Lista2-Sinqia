@@ -1,0 +1,16 @@
+C:\Users\Rodrigo\Desktop\Projeto Sinqia\Teste\mercado\bin\Debug\net5.0\mercado.exe
+C:\Users\Rodrigo\Desktop\Projeto Sinqia\Teste\mercado\bin\Debug\net5.0\mercado.deps.json
+C:\Users\Rodrigo\Desktop\Projeto Sinqia\Teste\mercado\bin\Debug\net5.0\mercado.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\Projeto Sinqia\Teste\mercado\bin\Debug\net5.0\mercado.runtimeconfig.dev.json
+C:\Users\Rodrigo\Desktop\Projeto Sinqia\Teste\mercado\bin\Debug\net5.0\mercado.dll
+C:\Users\Rodrigo\Desktop\Projeto Sinqia\Teste\mercado\bin\Debug\net5.0\ref\mercado.dll
+C:\Users\Rodrigo\Desktop\Projeto Sinqia\Teste\mercado\bin\Debug\net5.0\mercado.pdb
+C:\Users\Rodrigo\Desktop\Projeto Sinqia\Teste\mercado\obj\Debug\net5.0\mercado.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Projeto Sinqia\Teste\mercado\obj\Debug\net5.0\mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\Projeto Sinqia\Teste\mercado\obj\Debug\net5.0\mercado.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\Projeto Sinqia\Teste\mercado\obj\Debug\net5.0\mercado.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\Projeto Sinqia\Teste\mercado\obj\Debug\net5.0\mercado.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Projeto Sinqia\Teste\mercado\obj\Debug\net5.0\mercado.dll
+C:\Users\Rodrigo\Desktop\Projeto Sinqia\Teste\mercado\obj\Debug\net5.0\ref\mercado.dll
+C:\Users\Rodrigo\Desktop\Projeto Sinqia\Teste\mercado\obj\Debug\net5.0\mercado.pdb
+C:\Users\Rodrigo\Desktop\Projeto Sinqia\Teste\mercado\obj\Debug\net5.0\mercado.genruntimeconfig.cache
